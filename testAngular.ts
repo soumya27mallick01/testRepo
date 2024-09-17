@@ -1,6 +1,5 @@
-<h1> 
-    This is version 1
-</h1>
+ng build -- prod
+log.console("Error")
 
 printf("hello")
 
