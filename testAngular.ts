@@ -1,7 +1,12 @@
 ng build -- prod
 log.console("Error")
 
-printf("hello")
+printf()
 
+function printf(){
+    return "hello"
+}
+
+clickMe(){
     
-
+}
